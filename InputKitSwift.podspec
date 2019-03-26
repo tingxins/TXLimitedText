@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "InputKitSwift"
-  s.version      = "1.1.22"
+  s.version      = "1.2.2"
   s.summary      = "InputKit is an Elegant Kit to limits your input text in Swift, inspired by BlocksKit."
   s.homepage     = "https://github.com/tingxins/InputKit"
   s.license      = { :type => "MIT", :file => "LICENSE" }
