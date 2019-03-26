@@ -221,19 +221,20 @@
 					97F5EDBC1EE63D820083F0FB = {
 						CreatedOnToolsVersion = 8.3.2;
 						DevelopmentTeam = QZ2B7EZFJP;
+						LastSwiftMigration = 1020;
 						ProvisioningStyle = Automatic;
 					};
 					97F5EDD01EE63D830083F0FB = {
 						CreatedOnToolsVersion = 8.3.2;
 						DevelopmentTeam = QZ2B7EZFJP;
-						LastSwiftMigration = 0930;
+						LastSwiftMigration = 1020;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 97F5EDBC1EE63D820083F0FB;
 					};
 					97F5EDDB1EE63D830083F0FB = {
 						CreatedOnToolsVersion = 8.3.2;
 						DevelopmentTeam = QZ2B7EZFJP;
-						LastSwiftMigration = 0930;
+						LastSwiftMigration = 1020;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 97F5EDBC1EE63D820083F0FB;
 					};
@@ -241,7 +242,7 @@
 			};
 			buildConfigurationList = 97F5EDB81EE63D820083F0FB /* Build configuration list for PBXProject "InputKitDemo_Swift" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
@@ -474,7 +475,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.tingxins.demo.InputKitDemo-Swift";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -488,7 +489,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.tingxins.demo.InputKitDemo-Swift";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -502,8 +503,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.tingxins.demo.InputKitDemo-SwiftTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/InputKitDemo_Swift.app/InputKitDemo_Swift";
 			};
 			name = Debug;
@@ -518,8 +518,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.tingxins.demo.InputKitDemo-SwiftTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/InputKitDemo_Swift.app/InputKitDemo_Swift";
 			};
 			name = Release;
@@ -533,8 +532,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.tingxins.demo.InputKitDemo-SwiftUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TEST_TARGET_NAME = InputKitDemo_Swift;
 			};
 			name = Debug;
@@ -548,8 +546,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.tingxins.demo.InputKitDemo-SwiftUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TEST_TARGET_NAME = InputKitDemo_Swift;
 			};
 			name = Release;
